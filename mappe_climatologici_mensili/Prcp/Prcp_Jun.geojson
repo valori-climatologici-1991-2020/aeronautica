@@ -1,0 +1,1480 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6686,
+        "climatologico": 55.8159,
+        "SiteName": "S. VALENTINO ALLA M",
+        "SiteCode": 160080,
+        "FullSiteCode": 160080,
+        "Elevation": 1461,
+        "cod_rete": 11,
+        "comune": "CURON VENOSTA",
+        "provincia": "BOLZANO",
+        "County": "TRENTINO-ALTO ADIGE",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 4,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.533, 46.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6692,
+        "climatologico": 101.2237,
+        "SiteName": "PAGANELLA",
+        "SiteCode": 160220,
+        "FullSiteCode": 160220,
+        "Elevation": 2129,
+        "cod_rete": 11,
+        "comune": "FAI DELLA PAGANELLA",
+        "provincia": "TRENTO",
+        "County": "TRENTINO-ALTO ADIGE",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 4,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.033, 46.15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6693,
+        "climatologico": 96.964,
+        "SiteName": "DOBBIACO",
+        "SiteCode": 160330,
+        "FullSiteCode": 160330,
+        "Elevation": 1226,
+        "cod_rete": 11,
+        "comune": "DOBBIACO",
+        "provincia": "BOLZANO",
+        "County": "TRENTINO-ALTO ADIGE",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 4,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.217, 46.733]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6697,
+        "climatologico": 122.0015,
+        "SiteName": "TARVISIO",
+        "SiteCode": 160400,
+        "FullSiteCode": 160400,
+        "Elevation": 778,
+        "cod_rete": 11,
+        "comune": "TARVISIO",
+        "provincia": "UDINE",
+        "County": "FRIULI-VENEZIA GIULIA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 6,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.583, 46.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6707,
+        "climatologico": 89.8419,
+        "SiteName": "TORINO/CASELLE",
+        "SiteCode": 160590,
+        "FullSiteCode": 160590,
+        "Elevation": 287,
+        "cod_rete": 11,
+        "comune": "SAN MAURIZIO CANAVESE",
+        "provincia": "TORINO",
+        "County": "PIEMONTE",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 1,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.65, 45.217]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6709,
+        "climatologico": 91.4833,
+        "SiteName": "TORINO/BRIC DELLA C",
+        "SiteCode": 160610,
+        "FullSiteCode": 160610,
+        "Elevation": 710,
+        "cod_rete": 11,
+        "comune": "PECETTO TORINESE",
+        "provincia": "TORINO",
+        "County": "PIEMONTE",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 1,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.733, 45.033]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6711,
+        "climatologico": 104.7958,
+        "SiteName": "MILANO/MALPENSA",
+        "SiteCode": 160660,
+        "FullSiteCode": 160660,
+        "Elevation": 211,
+        "cod_rete": 11,
+        "comune": "FERNO",
+        "provincia": "VARESE",
+        "County": "LOMBARDIA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 3,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.733, 45.617]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6717,
+        "climatologico": 106.9096,
+        "SiteName": "BERGAMO/ORIO AL SER",
+        "SiteCode": 160760,
+        "FullSiteCode": 160760,
+        "Elevation": 237,
+        "cod_rete": 11,
+        "comune": "ORIO AL SERIO",
+        "provincia": "BERGAMO",
+        "County": "LOMBARDIA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 3,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.7, 45.667]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6718,
+        "climatologico": 74.1222,
+        "SiteName": "MILANO/LINATE",
+        "SiteCode": 160800,
+        "FullSiteCode": 160800,
+        "Elevation": 103,
+        "cod_rete": 11,
+        "comune": "PESCHIERA BORROMEO",
+        "provincia": "MILANO",
+        "County": "LOMBARDIA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 3,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.283, 45.433]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6720,
+        "climatologico": 77.5971,
+        "SiteName": "PIACENZA",
+        "SiteCode": 160840,
+        "FullSiteCode": 160840,
+        "Elevation": 138,
+        "cod_rete": 11,
+        "comune": "SAN GIORGIO PIACENTINO",
+        "provincia": "PIACENZA",
+        "County": "EMILIA-ROMAGNA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 8,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.733, 44.917]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6721,
+        "climatologico": 75.8797,
+        "SiteName": "BRESCIA/GHEDI",
+        "SiteCode": 160880,
+        "FullSiteCode": 160880,
+        "Elevation": 97,
+        "cod_rete": 11,
+        "comune": "GHEDI",
+        "provincia": "BRESCIA",
+        "County": "LOMBARDIA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 3,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.283, 45.417]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6723,
+        "climatologico": 67.7024,
+        "SiteName": "VERONA/VILLAFRANCA",
+        "SiteCode": 160900,
+        "FullSiteCode": 160900,
+        "Elevation": 68,
+        "cod_rete": 11,
+        "comune": "VILLAFRANCA DI VERONA",
+        "provincia": "VERONA",
+        "County": "VENETO",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 5,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.867, 45.383]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6729,
+        "climatologico": 83.004,
+        "SiteName": "TREVISO/ISTRANA",
+        "SiteCode": 160980,
+        "FullSiteCode": 160980,
+        "Elevation": 46,
+        "cod_rete": 11,
+        "comune": "ISTRANA",
+        "provincia": "TREVISO",
+        "County": "VENETO",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 5,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.1, 45.683]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6730,
+        "climatologico": 81.2225,
+        "SiteName": "TREVISO/S. ANGELO",
+        "SiteCode": 160990,
+        "FullSiteCode": 160990,
+        "Elevation": 23,
+        "cod_rete": 11,
+        "comune": "QUINTO DI TREVISO",
+        "provincia": "TREVISO",
+        "County": "VENETO",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 5,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.183, 45.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6733,
+        "climatologico": 82.2293,
+        "SiteName": "VENEZIA/TESSERA",
+        "SiteCode": 161050,
+        "FullSiteCode": 161050,
+        "Elevation": 6,
+        "cod_rete": 11,
+        "comune": "VENEZIA",
+        "provincia": "VENEZIA",
+        "County": "VENETO",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 5,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.333, 45.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6736,
+        "climatologico": 67.8504,
+        "SiteName": "TRIESTE",
+        "SiteCode": 161100,
+        "FullSiteCode": 161100,
+        "Elevation": 20,
+        "cod_rete": 11,
+        "comune": "TRIESTE",
+        "provincia": "TRIESTE",
+        "County": "FRIULI-VENEZIA GIULIA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 6,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.75, 45.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6758,
+        "climatologico": 54.7221,
+        "SiteName": "MONTE CIMONE",
+        "SiteCode": 161340,
+        "FullSiteCode": 161340,
+        "Elevation": 2173,
+        "cod_rete": 11,
+        "comune": "RIOLUNATO",
+        "provincia": "MODENA",
+        "County": "EMILIA-ROMAGNA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 8,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.7, 44.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6768,
+        "climatologico": 38.8496,
+        "SiteName": "CERVIA",
+        "SiteCode": 161480,
+        "FullSiteCode": 161480,
+        "Elevation": 10,
+        "cod_rete": 11,
+        "comune": "CESENA",
+        "provincia": "FORLI-CESENA",
+        "County": "EMILIA-ROMAGNA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 8,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3, 44.217]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6769,
+        "climatologico": 53.2462,
+        "SiteName": "RIMINI",
+        "SiteCode": 161490,
+        "FullSiteCode": 161490,
+        "Elevation": 13,
+        "cod_rete": 11,
+        "comune": "RIMINI",
+        "provincia": "RIMINI",
+        "County": "EMILIA-ROMAGNA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 8,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.617, 44.033]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6771,
+        "climatologico": 24.8807,
+        "SiteName": "CAPO MELE",
+        "SiteCode": 161530,
+        "FullSiteCode": 161530,
+        "Elevation": 221,
+        "cod_rete": 11,
+        "comune": "LAIGUEGLIA",
+        "provincia": "SAVONA",
+        "County": "LIGURIA",
+        "nome_rete": "Sinottica",
+        "area": "nord",
+        "cod_reg": 7,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.167, 43.95]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6773,
+        "climatologico": 40.6923,
+        "SiteName": "PISA/S. GIUSTO",
+        "SiteCode": 161580,
+        "FullSiteCode": 161580,
+        "Elevation": 6,
+        "cod_rete": 11,
+        "comune": "PISA",
+        "provincia": "PISA",
+        "County": "TOSCANA",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 9,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.383, 43.683]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6776,
+        "climatologico": 18.3134,
+        "SiteName": "MONTE ARGENTARIO",
+        "SiteCode": 161680,
+        "FullSiteCode": 161680,
+        "Elevation": 631,
+        "cod_rete": 11,
+        "comune": "MONTE ARGENTARIO",
+        "provincia": "GROSSETO",
+        "County": "TOSCANA",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 9,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.167, 42.383]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6777,
+        "climatologico": 48.0938,
+        "SiteName": "FIRENZE/PERETOLA",
+        "SiteCode": 161700,
+        "FullSiteCode": 161700,
+        "Elevation": 38,
+        "cod_rete": 11,
+        "comune": "FIRENZE",
+        "provincia": "FIRENZE",
+        "County": "TOSCANA",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 9,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2, 43.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6779,
+        "climatologico": 53.7682,
+        "SiteName": "AREZZO",
+        "SiteCode": 161720,
+        "FullSiteCode": 161720,
+        "Elevation": 249,
+        "cod_rete": 11,
+        "comune": "AREZZO",
+        "provincia": "AREZZO",
+        "County": "TOSCANA",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 9,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.85, 43.467]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6782,
+        "climatologico": 70.0204,
+        "SiteName": "FRONTONE",
+        "SiteCode": 161790,
+        "FullSiteCode": 161790,
+        "Elevation": 574,
+        "cod_rete": 11,
+        "comune": "FRONTONE",
+        "provincia": "PESARO E URBINO",
+        "County": "MARCHE",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 11,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.733, 43.517]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6794,
+        "climatologico": 25.577,
+        "SiteName": "GROSSETO",
+        "SiteCode": 162060,
+        "FullSiteCode": 162060,
+        "Elevation": 7,
+        "cod_rete": 11,
+        "comune": "GROSSETO",
+        "provincia": "GROSSETO",
+        "County": "TOSCANA",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 9,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.067, 42.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6797,
+        "climatologico": 46.3079,
+        "SiteName": "VITERBO",
+        "SiteCode": 162160,
+        "FullSiteCode": 162160,
+        "Elevation": 308,
+        "cod_rete": 11,
+        "comune": "VITERBO",
+        "provincia": "VITERBO",
+        "County": "LAZIO",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 12,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.05, 42.433]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6803,
+        "climatologico": 32.2959,
+        "SiteName": "VIGNA DI VALLE",
+        "SiteCode": 162240,
+        "FullSiteCode": 162240,
+        "Elevation": 266,
+        "cod_rete": 11,
+        "comune": "BRACCIANO",
+        "provincia": "ROMA",
+        "County": "LAZIO",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 12,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.217, 42.083]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6812,
+        "climatologico": 14.8945,
+        "SiteName": "TERMOLI",
+        "SiteCode": 162320,
+        "FullSiteCode": 162320,
+        "Elevation": 44,
+        "cod_rete": 11,
+        "comune": "TERMOLI",
+        "provincia": "CAMPOBASSO",
+        "County": "MOLISE",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 14,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15, 42]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6819,
+        "climatologico": 26.2654,
+        "SiteName": "ROMA FIUMICINO",
+        "SiteCode": 162420,
+        "FullSiteCode": 162420,
+        "Elevation": 3,
+        "cod_rete": 11,
+        "comune": "FIUMICINO",
+        "provincia": "ROMA",
+        "County": "LAZIO",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 12,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.233, 41.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6821,
+        "climatologico": 48.0625,
+        "SiteName": "FROSINONE",
+        "SiteCode": 162440,
+        "FullSiteCode": 162440,
+        "Elevation": 185,
+        "cod_rete": 11,
+        "comune": "FROSINONE",
+        "provincia": "FROSINONE",
+        "County": "LAZIO",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 12,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3, 41.633]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6822,
+        "climatologico": 15.7792,
+        "SiteName": "PRATICA DI MARE",
+        "SiteCode": 162450,
+        "FullSiteCode": 162450,
+        "Elevation": 21,
+        "cod_rete": 11,
+        "comune": "POMEZIA",
+        "provincia": "ROMA",
+        "County": "LAZIO",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 12,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.45, 41.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6826,
+        "climatologico": 49.7754,
+        "SiteName": "CAMPOBASSO",
+        "SiteCode": 162520,
+        "FullSiteCode": 162520,
+        "Elevation": 807,
+        "cod_rete": 11,
+        "comune": "CAMPOBASSO",
+        "provincia": "CAMPOBASSO",
+        "County": "MOLISE",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 14,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.65, 41.567]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6827,
+        "climatologico": 24.2761,
+        "SiteName": "GRAZZANISE",
+        "SiteCode": 162530,
+        "FullSiteCode": 162530,
+        "Elevation": 10,
+        "cod_rete": 11,
+        "comune": "CANCELLO ED ARNONE",
+        "provincia": "CASERTA",
+        "County": "CAMPANIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 15,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.067, 41.05]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6828,
+        "climatologico": 38.0519,
+        "SiteName": "MONTE S. ANGELO",
+        "SiteCode": 162580,
+        "FullSiteCode": 162580,
+        "Elevation": 844,
+        "cod_rete": 11,
+        "comune": "MONTE SANT'ANGELO",
+        "provincia": "FOGGIA",
+        "County": "PUGLIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 16,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.95, 41.7]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6836,
+        "climatologico": 38.8785,
+        "SiteName": "TREVICO",
+        "SiteCode": 162630,
+        "FullSiteCode": 162630,
+        "Elevation": 1093,
+        "cod_rete": 11,
+        "comune": "TREVICO",
+        "provincia": "AVELLINO",
+        "County": "CAMPANIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 15,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.233, 41.05]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6841,
+        "climatologico": 15.0657,
+        "SiteName": "PONZA",
+        "SiteCode": 162800,
+        "FullSiteCode": 162800,
+        "Elevation": 185,
+        "cod_rete": 11,
+        "comune": "PONZA",
+        "provincia": "LATINA",
+        "County": "LAZIO",
+        "nome_rete": "Sinottica",
+        "area": "centro",
+        "cod_reg": 12,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.95, 40.917]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6847,
+        "climatologico": 15.2869,
+        "SiteName": "CAPRI",
+        "SiteCode": 162940,
+        "FullSiteCode": 162940,
+        "Elevation": 161,
+        "cod_rete": 11,
+        "comune": "ANACAPRI",
+        "provincia": "NAPOLI",
+        "County": "CAMPANIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 15,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.2, 40.55]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6851,
+        "climatologico": 38.3558,
+        "SiteName": "GIOIA DEL COLLE",
+        "SiteCode": 163120,
+        "FullSiteCode": 163120,
+        "Elevation": 350,
+        "cod_rete": 11,
+        "comune": "GIOIA DEL COLLE",
+        "provincia": "BARI",
+        "County": "PUGLIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 16,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.933, 40.767]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6856,
+        "climatologico": 15.0738,
+        "SiteName": "BRINDISI",
+        "SiteCode": 163200,
+        "FullSiteCode": 163200,
+        "Elevation": 10,
+        "cod_rete": 11,
+        "comune": "BRINDISI",
+        "provincia": "BRINDISI",
+        "County": "PUGLIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 16,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.95, 40.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6858,
+        "climatologico": 21.5179,
+        "SiteName": "MARINA DI GINOSA",
+        "SiteCode": 163250,
+        "FullSiteCode": 163250,
+        "Elevation": 12,
+        "cod_rete": 11,
+        "comune": "GINOSA",
+        "provincia": "TARANTO",
+        "County": "PUGLIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 16,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.883, 40.433]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6859,
+        "climatologico": 28.2557,
+        "SiteName": "LECCE",
+        "SiteCode": 163320,
+        "FullSiteCode": 163320,
+        "Elevation": 61,
+        "cod_rete": 11,
+        "comune": "GALATINA",
+        "provincia": "LECCE",
+        "County": "PUGLIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 16,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.15, 40.233]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6865,
+        "climatologico": 41.4922,
+        "SiteName": "MONTE SCURO",
+        "SiteCode": 163440,
+        "FullSiteCode": 163440,
+        "Elevation": 1720,
+        "cod_rete": 11,
+        "comune": "CELICO",
+        "provincia": "COSENZA",
+        "County": "CALABRIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 18,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.4, 39.333]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6869,
+        "climatologico": 16.2146,
+        "SiteName": "S. MARIA DI LEUCA",
+        "SiteCode": 163600,
+        "FullSiteCode": 163600,
+        "Elevation": 112,
+        "cod_rete": 11,
+        "comune": "CASTRIGNANO DEL CAPO",
+        "provincia": "LECCE",
+        "County": "PUGLIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 16,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.35, 39.817]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6874,
+        "climatologico": 10.8769,
+        "SiteName": "USTICA",
+        "SiteCode": 164000,
+        "FullSiteCode": 164000,
+        "Elevation": 251,
+        "cod_rete": 11,
+        "comune": "USTICA",
+        "provincia": "PALERMO",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.183, 38.7]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6876,
+        "climatologico": 21.3065,
+        "SiteName": "PALERMO/PUNTA RAISI",
+        "SiteCode": 164050,
+        "FullSiteCode": 164050,
+        "Elevation": 21,
+        "cod_rete": 11,
+        "comune": "CINISI",
+        "provincia": "PALERMO",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1, 38.183]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6881,
+        "climatologico": 32.1728,
+        "SiteName": "MESSINA",
+        "SiteCode": 164200,
+        "FullSiteCode": 164200,
+        "Elevation": 51,
+        "cod_rete": 11,
+        "comune": "MESSINA",
+        "provincia": "MESSINA",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.55, 38.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6883,
+        "climatologico": 4.8903,
+        "SiteName": "TRAPANI/BIRGI",
+        "SiteCode": 164290,
+        "FullSiteCode": 164290,
+        "Elevation": 14,
+        "cod_rete": 11,
+        "comune": "MARSALA",
+        "provincia": "TRAPANI",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5, 37.917]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6888,
+        "climatologico": 25.2975,
+        "SiteName": "ENNA",
+        "SiteCode": 164500,
+        "FullSiteCode": 164500,
+        "Elevation": 965,
+        "cod_rete": 11,
+        "comune": "ENNA",
+        "provincia": "ENNA",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.283, 37.567]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6889,
+        "climatologico": 8.4826,
+        "SiteName": "GELA",
+        "SiteCode": 164530,
+        "FullSiteCode": 164530,
+        "Elevation": 65,
+        "cod_rete": 11,
+        "comune": "GELA",
+        "provincia": "CALTANISSETTA",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.217, 37.083]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6891,
+        "climatologico": 11.2507,
+        "SiteName": "CATANIA/SIGONELLA",
+        "SiteCode": 164590,
+        "FullSiteCode": 164590,
+        "Elevation": 22,
+        "cod_rete": 11,
+        "comune": "LENTINI",
+        "provincia": "SIRACUSA",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.917, 37.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6893,
+        "climatologico": 8.6587,
+        "SiteName": "CATANIA/FONTANAROSS",
+        "SiteCode": 164600,
+        "FullSiteCode": 164600,
+        "Elevation": 17,
+        "cod_rete": 11,
+        "comune": "CATANIA",
+        "provincia": "CATANIA",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.05, 37.467]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6897,
+        "climatologico": 4.9933,
+        "SiteName": "PANTELLERIA",
+        "SiteCode": 164700,
+        "FullSiteCode": 164700,
+        "Elevation": 170,
+        "cod_rete": 11,
+        "comune": "PANTELLERIA",
+        "provincia": "TRAPANI",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.967, 36.817]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6901,
+        "climatologico": 4.3268,
+        "SiteName": "COZZO SPADARO",
+        "SiteCode": 164800,
+        "FullSiteCode": 164800,
+        "Elevation": 51,
+        "cod_rete": 11,
+        "comune": "PORTOPALO DI CAPO PASSERO",
+        "provincia": "SIRACUSA",
+        "County": "SICILIA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 19,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.133, 36.683]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6907,
+        "climatologico": 14.45,
+        "SiteName": "CAPO CACCIA",
+        "SiteCode": 165220,
+        "FullSiteCode": 165220,
+        "Elevation": 204,
+        "cod_rete": 11,
+        "comune": "ALGHERO",
+        "provincia": "SASSARI",
+        "County": "SARDEGNA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 20,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.167, 40.567]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6919,
+        "climatologico": 16.6846,
+        "SiteName": "DECIMOMANNU",
+        "SiteCode": 165460,
+        "FullSiteCode": 165460,
+        "Elevation": 28,
+        "cod_rete": 11,
+        "comune": "VILLASOR",
+        "provincia": "CAGLIARI",
+        "County": "SARDEGNA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 20,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.967, 39.35]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6922,
+        "climatologico": 8,
+        "SiteName": "CAPO BELLAVISTA",
+        "SiteCode": 165500,
+        "FullSiteCode": 165500,
+        "Elevation": 150,
+        "cod_rete": 11,
+        "comune": "TORTOLI'",
+        "provincia": "NUORO",
+        "County": "SARDEGNA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 20,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.717, 39.933]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6923,
+        "climatologico": 11.8232,
+        "SiteName": "CAGLIARI/ELMAS",
+        "SiteCode": 165600,
+        "FullSiteCode": 165600,
+        "Elevation": 5,
+        "cod_rete": 11,
+        "comune": "ELMAS",
+        "provincia": "CAGLIARI",
+        "County": "SARDEGNA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 20,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.067, 39.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "mm": 6,
+        "SiteID": 6925,
+        "climatologico": 4.5992,
+        "SiteName": "CAPO CARBONARA",
+        "SiteCode": 165640,
+        "FullSiteCode": 165640,
+        "Elevation": 118,
+        "cod_rete": 11,
+        "comune": "VILLASIMIUS",
+        "provincia": "CAGLIARI",
+        "County": "SARDEGNA",
+        "nome_rete": "Sinottica",
+        "area": "sud",
+        "cod_reg": 20,
+        "State": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.517, 39.1]
+      }
+    }
+  ]
+} 
