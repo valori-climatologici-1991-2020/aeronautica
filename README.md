@@ -36,5 +36,11 @@ Numero di stazioni per cui e' stato possibile calcolare il valore climatologico 
 
 [Valori climatologici annuali: Prcp](./md/annuali/Prcp/tabella.md)
 
+### Valori climatologici non standard: 10 anni mancanti
+
+#### Prcp
+
+Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 54
+
 
 
