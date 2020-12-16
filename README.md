@@ -14,14 +14,19 @@ La distribuzione spaziale dei dati e' visibile mediante i file geojson.
 
 Risultati utilizzando la regola del 4/10 (10 giorni mancanti in un mese di cui al piuì 4 consecutivi).
 
-### Tmax
-
 ### Valori climatologici standard 
 
 In questo caso si ammette un massimo di 6 anni mancanti su 30.
+
+#### Tmax
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 91
 
 [Valori climatologici annuali: Tmax](./md/annuali/Tmax/tabella.md)
 
+#### Tmin
+
+Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 91
+
+[Valori climatologici annuali: Tmin](./md/annuali/Tmin/tabella.md)
 
