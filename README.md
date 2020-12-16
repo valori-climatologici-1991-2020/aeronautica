@@ -51,5 +51,22 @@ Numero di stazioni per cui e' stato possibile calcolare il valore climatologico 
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 54
 
+### Valori climatologici non standard: 15 anni mancanti
+
+#### Tmax
+
+Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 108
+
+#### Tmin
+
+Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 108
+
+
+#### Prcp
+
+Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 80
+
+
+
 
 
