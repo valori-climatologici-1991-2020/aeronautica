@@ -22,6 +22,6 @@ In questo caso si ammette un massimo di 6 anni mancanti su 30.
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 91
 
-[Valori cliamtologici annuali: Tmax](./md/annuali/Tmax/tabella.md)
+[Valori climatologici annuali: Tmax](./md/annuali/Tmax/tabella.md)
 
 
