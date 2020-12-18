@@ -30,39 +30,40 @@ Numero di stazioni per cui e' stato possibile calcolare il valore climatologico 
 
 [Valori climatologici annuali: Tmin](./md/annuali/Tmin/tabella.md)
 
-#### Prcp
+### Prcp
+
+Per la precipitazione non si e' utilizzata la regola del 4/0 (un solo dato giornaliero NA rende non valido il corrispettivo cumulato mensile).
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 27
 
 [Valori climatologici annuali: Prcp](./md/annuali/Prcp/tabella.md)
 
-### Valori climatologici non standard: 10 anni mancanti
+## Valori climatologici non standard: 10 anni mancanti
 
-#### Tmax
+### Tmax
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 95
 
-#### Tmin
+### Tmin
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 96
 
 
-#### Prcp
+### Prcp
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 54
 
-### Valori climatologici non standard: 15 anni mancanti
+## Valori climatologici non standard: 15 anni mancanti
 
-#### Tmax
-
-Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 108
-
-#### Tmin
+### Tmax
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 108
 
+### Tmin
 
-#### Prcp
+Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 108
+
+### Prcp
 
 Numero di stazioni per cui e' stato possibile calcolare il valore climatologico annuale: 80
 
